@@ -24,3 +24,7 @@ nav {
   color: white;
   border-color: white;
 }
+
+.test-static {
+  display: none;
+}

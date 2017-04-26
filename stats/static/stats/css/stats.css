@@ -1,0 +1,26 @@
+.container-fluid {
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+nav {
+  background-color: #5c6bc0;
+}
+
+.navbar-light .navbar-brand {
+  color: white;
+}
+
+.navbar-light .navbar-nav .active>.nav-link{
+  color:white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+
+.btn-outline-success {
+  color: white;
+  border-color: white;
+}
